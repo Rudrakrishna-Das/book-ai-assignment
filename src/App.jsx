@@ -10,7 +10,7 @@ const App = () => {
   return (
     <>
       <header className="bg-[#6366f1] py-[2.5rem]">
-        <h1 className="text-white font-bold text-[2.6rem] text-center">
+        <h1 className="text-white font-bold text-[2.6rem] text-center ">
           Book Generator API
         </h1>
       </header>
